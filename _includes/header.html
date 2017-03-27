@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ "/" | relative_url}}"><img src="images/Logo.png" border="0" width="300" style="margin-left: 5px; margin-right: 5px; float: left;"/>{{ site.title | escape }}</a>
+    <a class="site-title" href="{{ "/" | relative_url}}"><img src="{{ site.url | relative_url }}/images/Logo.png" border="0" width="300" style="margin-left: 5px; margin-right: 5px; float: left;"/>{{ site.title | escape }}</a>
 
     <nav class="site-nav">
       <span class="menu-icon">
