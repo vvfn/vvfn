@@ -7,11 +7,12 @@ title: Willkommen
 ---
 
 <p><img src="images/Archivgebaeude.jpg" border="0" width="350" style="margin-left: 5px; margin-right: 5px; float: left;" />
-<br/><p style="float:right"><strong>Nächste Termine</strong><br/>
-  16.4.2017: <br/> Sonntagsöffnung der Schausammlung<br/>
-  ---------- <br/>
+<br/><p style="float:right"><strong>Nächste Termine</strong><br\>
   21.5.2017: <br/> Exkursion in den Steinbruch bei Erbstadt mit<br/>
                    anschließender Öffnung der Schausammlung<br/>
+  ---------- <br/>
+   3.6.2017: <br/> Stand auf dem Bürgerfest<br/>
+                   "1200 Jahre Büdesheim"<br/>
   ---------- <br/>
   18.6.2017: <br/> Sonntagsöffnung der Schausammlung<br/>
   ---------- <br/>
