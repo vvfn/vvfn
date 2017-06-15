@@ -10,6 +10,8 @@ title: Willkommen
 <br/><p style="float:right"><strong>Nächste Termine</strong><br/>
   18.6.2017: <br/> Sonntagsöffnung der Schausammlung<br/>
   ---------- <br/>
+   2.7.2017: <br/> Weinbau und Archäologie in Hochstadt<br/>
+  ---------- <br/>
   20.8.2017: <br/> Sonntagsöffnung der Schausammlung<br/>
   ---------- <br/>
   10.9.2017: <br/> Tag des offenen Denkmals<br/>
