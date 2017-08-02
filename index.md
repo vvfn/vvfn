@@ -8,10 +8,6 @@ title: Willkommen
 
 <p><img src="images/Archivgebaeude.jpg" border="0" width="350" style="margin-left: 5px; margin-right: 5px; float: left;" />
 <br/><p style="float:right"><strong>Nächste Termine</strong><br/>
-  18.6.2017: <br/> Sonntagsöffnung der Schausammlung<br/>
-  ---------- <br/>
-   2.7.2017: <br/> Weinbau und Archäologie in Hochstadt<br/>
-  ---------- <br/>
   20.8.2017: <br/> Sonntagsöffnung der Schausammlung<br/>
   ---------- <br/>
   10.9.2017: <br/> Tag des offenen Denkmals<br/>
