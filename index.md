@@ -9,23 +9,23 @@ title: Willkommen
 <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
 <br/>
-21.10.2018 Sonntagsöffnung der Schausammlung<br />
+18.03.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
-28./29.09.2018 Jubiläumsveranst. 30-Jahre VVFN<br />
-               (Programm wird noch bekannt gegeben)<br />
+15.04.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
-19.08.2018 Sonntagsöffnung der Schausammlung<br />
+17.06.2018 Sonntagsöffnung der Schausammlung<br />
+  ---------- <br/>
+15.07.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
 05.08.2018 Archäologischer Tag bei KunstMais 2018<br />
  auf Hof Buchwald<br />
   ---------- <br/>
-15.07.2018 Sonntagsöffnung der Schausammlung<br />
+19.08.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
-17.06.2018 Sonntagsöffnung der Schausammlung<br />
+28./29.09.2018 Jubiläumsveranst. 30-Jahre VVFN<br />
+               (Programm wird noch bekannt gegeben)<br />
   ---------- <br/>
-15.04.2018 Sonntagsöffnung der Schausammlung<br />
-  ---------- <br/>
-18.03.2018 Sonntagsöffnung der Schausammlung<br />
+21.10.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
 <br/>
                    </p></p>
