@@ -11,12 +11,13 @@ title: Willkommen
 <br/>
 21.10.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
-28./29.09.2018 Jubiläumsveranstaltung 30-Jahre VVFN e.V.<br />
+28./29.09.2018 Jubiläumsveranst. 30-Jahre VVFN e.V.<br />
                (Programm wird noch bekannt gegeben)<br />
   ---------- <br/>
 19.08.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
-05.08.2018 Archäologischer Tag bei KunstMais 2018 auf Hof Buchwald<br />
+05.08.2018 Archäologischer Tag bei KunstMais 2018<br />
+ auf Hof Buchwald<br />
   ---------- <br/>
 15.07.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
