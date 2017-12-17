@@ -6,7 +6,7 @@ layout: home
 title: Willkommen
 ---
 
-<p><img src="images/Archivgebaeude.jpg" border="0" width="350" style="margin-left: 5px; margin-right: 5px; float: left;" />
+<p><br /><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
 <br/>
 21.10.2018 Sonntagsöffnung der Schausammlung<br />
