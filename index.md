@@ -11,7 +11,7 @@ title: Willkommen
 <br/>
 21.10.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
-28./29.09.2018 Jubiläumsveranst. 30-Jahre VVFN e.V.<br />
+28./29.09.2018 Jubiläumsveranst. 30-Jahre VVFN<br />
                (Programm wird noch bekannt gegeben)<br />
   ---------- <br/>
 19.08.2018 Sonntagsöffnung der Schausammlung<br />
