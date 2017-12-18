@@ -9,6 +9,8 @@ title: Willkommen
 <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
 <br/>
+23.02.2018 Jahreshauptversammlung<br />
+  ---------- <br/>
 18.03.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
 15.04.2018 Sonntagsöffnung der Schausammlung<br />
