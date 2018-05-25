@@ -7,7 +7,7 @@ menu: foot
 
 <p>Verein für Vor- und Frühgeschichte im unteren Niddertal e.V.<br />Am Hüpper 50<br />61130 Nidderau<br />Mail: vvfn2015@gmail.com</p>
 <p>Vorstand:</p>
-<p>Dr. Heike Lasch, Erste Vorsitzende<br />Dieter Dettmering, stellvertretender Vorsitzender<br />Dirk Hassler M.A., Geschäftsführer kommissarisch<br />Alf Steinbrecher, stellvertretender Geschäftsführer<br />Denys Schnieber, Kassenwart<br />Nicole Schnieber, Schriftführerin</p><br />
+<p>Dr. Heike Lasch, Erste Vorsitzende<br />Dieter Dettmering, stellvertretender Vorsitzender<br />P.D. Dr. Britta Ramminger, Geschäftsführerin<br />Alf Steinbrecher, stellvertretender Geschäftsführer<br />Dr. Dirk Koller, Kassenwart<br />Nicole Schnieber, Schriftführerin</p><br />
 <h1>Disclaimer</h1>
 <h4>Haftungsbeschränkung</h4>
 <div>Die Inhalte dieser Website werden mit größtmöglicher Sorgfalt erstellt. Der Anbieter übernimmt jedoch keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte. Die Nutzung der Inhalte der Website erfolgt auf eigene Gefahr des Nutzers. Namentlich gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des Anbieters wieder. Mit der reinen Nutzung der Website des Anbieters kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande.</div><br />
