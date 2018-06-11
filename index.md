@@ -15,7 +15,7 @@ title: Willkommen
   ---------- <br/>
 15.04.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
-17.06.2018 Sonntagsöffnung der Schausammlung<br />
+17.06.2018 Sonntagsöffnung entfällt!<br />
   ---------- <br/>
 15.07.2018 Sonntagsöffnung der Schausammlung<br />
   ---------- <br/>
