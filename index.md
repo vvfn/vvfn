@@ -17,7 +17,7 @@ title: Willkommen
   ---------- <br/>
 18.08.2019 Weinwanderung in Maintal-Hochstadt<br />
   ---------- <br/>
-08.09.2019 Vortrag zum „Tag des offenen Denkmals“ („Modern(e) – Umbrüche in Kunst und Architektur“)<br />
+08.09.2019 Vortrag zum „Tag des offenen Denkmals“ <br />(„Modern(e) – Umbrüche in Kunst und Architektur“)<br />
   ---------- <br/>
 
 <br/>
