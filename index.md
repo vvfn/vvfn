@@ -9,28 +9,17 @@ title: Willkommen
 <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
 <br/>
-23.02.2018 Jahreshauptversammlung<br />
+08.03.2019 Jahreshauptversammlung<br />
   ---------- <br/>
-18.03.2018 Sonntagsöffnung der Schausammlung<br />
+16.03.2019 Exkursion zu „Faszination Schwert“ nach Stuttgart (mit Zug)<br />
   ---------- <br/>
-15.04.2018 Sonntagsöffnung der Schausammlung<br />
+18.05.2019 Exkursion zur Saalburg mit Wanderung (mit privaten PKW)<br />
   ---------- <br/>
-17.06.2018 Sonntagsöffnung entfällt!<br />
+18.08.2019 Weinwanderung in Maintal-Hochstadt<br />
   ---------- <br/>
-15.07.2018 Sonntagsöffnung der Schausammlung<br />
+08.09.2019 Vortrag zum „Tag des offenen Denkmals“ („Modern(e) – Umbrüche in Kunst und Architektur“)<br />
   ---------- <br/>
-05.08.2018 Archäologischer Tag bei KunstMais 2018<br />
- auf Hof Buchwald<br />
-  ---------- <br/>
-19.08.2018 Sonntagsöffnung entfällt!<br />  
-  ---------- <br/>
-16.09.2018 Streuobsttag Nidderau<br />  
-  ---------- <br/>
-28./29.09.2018 Jubiläumsveranst. 30-Jahre VVFN<br />
-               (Programm wird noch bekannt gegeben)<br />
-  ---------- <br/>
-21.10.2018 Sonntagsöffnung entfällt!<br />
-  ---------- <br/>
+
 <br/>
                    </p></p>
 
