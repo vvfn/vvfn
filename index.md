@@ -12,15 +12,15 @@ title: Willkommen
 08.03.2019 Jahreshauptversammlung<br />
   ---------- <br/>
 16.03.2019 Exkursion zu „Faszination Schwert“ <br />
-  &emsp;&emsp;nach Stuttgart (mit Zug)<br />
+  &emsp;nach Stuttgart (mit Zug)<br />
   ---------- <br/>
 18.05.2019 Exkursion zur Saalburg mit Wanderung <br />
-  &emsp;&emsp;(mit privaten PKW)<br />
+  &emsp;(mit privaten PKW)<br />
   ---------- <br/>
 18.08.2019 Weinwanderung in Maintal-Hochstadt<br />
   ---------- <br/>
 08.09.2019 Vortrag zum „Tag des offenen Denkmals“ <br />
-  &emsp;&emsp;(„Modern(e) – Umbrüche in Kunst und Architektur“)<br />
+  &emsp;(„Modern(e) – Umbrüche in Kunst und Architektur“)<br />
   ---------- <br/>
 
 <br/>
