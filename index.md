@@ -11,8 +11,8 @@ title: Willkommen
 <br/>
 08.03.2019 Jahreshauptversammlung<br />
   ---------- <br/>
-16.03.2019 Exkursion zu „Faszination Schwert“ <br />
-  &emsp;nach Stuttgart (mit Zug)<br />
+16.03.2019 Archäologische Spurensuche<br />
+  &emsp;rund um Wickstadt<br />
   ---------- <br/>
 18.05.2019 Exkursion zur Saalburg mit Wanderung <br />
   &emsp;(mit privaten PKW)<br />
