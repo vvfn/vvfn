@@ -13,6 +13,7 @@ title: Willkommen
   ---------- <br/>
 16.03.2019 Archäologische Spurensuche<br />
   &emsp;rund um Wickstadt<br />
+  &emsp;entfällt Witterungsbedingt!<br />
   ---------- <br/>
 18.05.2019 Exkursion zur Saalburg mit Wanderung <br />
   &emsp;(mit privaten PKW)<br />
