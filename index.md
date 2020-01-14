@@ -9,19 +9,17 @@ title: Willkommen
 <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
 <br/>
-08.03.2019 Jahreshauptversammlung<br />
+03.04.2020 Jahreshauptversammlung<br />
   ---------- <br/>
-16.03.2019 Archäologische Spurensuche<br />
-  &emsp;rund um Wickstadt<br />
-  &emsp;entfällt Witterungsbedingt!<br />
+24.05.2020 Tag der offenen Tür<br />
+  &emsp;Altarchiv Heldenbergen<br />
   ---------- <br/>
-18.05.2019 Exkursion zur Saalburg mit Wanderung <br />
-  &emsp;(mit privaten PKW)<br />
+20.06.2020 Infostand und Aktionen zum Projekt<br />
+  &emsp;"museale Rekonstruktion eines bandkeramischen Hauses"<br />
+  &emsp;Hexenturmgarten, Schlossberg, Nidderau-Windecken<br />
   ---------- <br/>
-18.08.2019 Weinwanderung in Maintal-Hochstadt<br />
-  ---------- <br/>
-08.09.2019 Vortrag zum „Tag des offenen Denkmals“ <br />
-  &emsp;(„Modern(e) – Umbrüche in Kunst und Architektur“)<br />
+02.08.2020 Archäologischer Tag bei KunstMais 2020<br />
+  &emsp; Hof Buchwald, Nidderau-Windecken<br />
   ---------- <br/>
 
 <br/>
