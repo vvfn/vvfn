@@ -14,8 +14,9 @@ title: Willkommen
 24.05.2020 Tag der offenen Tür<br />
   &emsp;Altarchiv Heldenbergen<br />
   ---------- <br/>
-20.06.2020 Infostand und Aktionen zum Projekt<br />
-  &emsp;"museale Rekonstruktion eines bandkeramischen Hauses"<br />
+20.06.2020 Infostand und Aktionen zum <br />
+  &emsp;Projekt "museale Rekonstruktion <br />
+  &emsp;eines bandkeramischen Hauses"<br />
   &emsp;Hexenturmgarten, Schlossberg, Nidderau-Windecken<br />
   ---------- <br/>
 02.08.2020 Archäologischer Tag bei KunstMais 2020<br />
