@@ -8,8 +8,12 @@ title: Willkommen
 
 <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
-<br/>
-03.04.2020 Jahreshauptversammlung<br />
+<br/><b>
+Alle Termine des VVFN e.V. sind bis auf<br />
+  weiteres aufgrund der aktuellen Lage abgesagt.</b><br />
+  Ein Besuch der Archäologischen Schausammlung <br />
+  ist für Einzelpersonen nach Absprache möglich.<br />
+Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
 24.05.2020 Tag der offenen Tür<br />
   &emsp;Altarchiv Heldenbergen<br />
