@@ -3,7 +3,7 @@ layout: page
 title: Links
 menu: head
 ---
-[!(/images/Logoneu2016.tif "Keltische Stätten - KeltenWelten e. V.")](https://www.verein-keltenwelten.de/keltische-staetten/) | Touristischer Reiseführer des Vereins KeltenWelten e. V. 
+[![Keltische Stätten - KeltenWelten e. V. ](/images/Logoneu2016.tif "Keltische Stätten - KeltenWelten e. V.")](https://www.verein-keltenwelten.de/keltische-staetten/) | Touristischer Reiseführer des Vereins KeltenWelten e. V. 
  |
 [Keltenwelt am Glauberg](http://www.keltenwelt-glauberg.de) | Der Glauberg ist ein ganz besonderer Ort, der bereits in der Jungsteinzeit von Menschen besiedelt wurde. Seine Funde aus drei keltischen Gräbern des 5. Jahrhunderts v. Chr. und die Statue eines Keltenherrschers sind einzigartig und werden weltweit als wissenschaftliche Sensation gewertet. 
  | 
