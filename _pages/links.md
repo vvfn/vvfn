@@ -3,6 +3,8 @@ layout: page
 title: Links
 menu: head
 ---
+[(Keltische Stätten | KeltenWelten e. V. ](https://www.verein-keltenwelten.de/keltische-staetten/) | Touristischer Reiseführer des Vereins KeltenWelten e. V. 
+ |
 [Keltenwelt am Glauberg](http://www.keltenwelt-glauberg.de) | Der Glauberg ist ein ganz besonderer Ort, der bereits in der Jungsteinzeit von Menschen besiedelt wurde. Seine Funde aus drei keltischen Gräbern des 5. Jahrhunderts v. Chr. und die Statue eines Keltenherrschers sind einzigartig und werden weltweit als wissenschaftliche Sensation gewertet. 
  | 
 [Landesamt für Denkmalpflege](http://www.denkmalpflege-hessen.de) | Das Landesamt für Denkmalpflege ist als Denkmalfachbehörde zuständig für alle fachlichen Belange, die Kulturdenkmäler berühren.
