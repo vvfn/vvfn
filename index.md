@@ -8,25 +8,12 @@ title: Willkommen
 
 <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
-<br/><b>
-Alle Termine des VVFN e.V. sind bis auf<br />
-  weiteres aufgrund der aktuellen Lage abgesagt.</b><br />
   Ein Besuch der Archäologischen Schausammlung <br />
   ist für Einzelpersonen nach Absprache möglich.<br />
 Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
-24.05.2020 Tag der offenen Tür<br />
+14.05.2022 Nachmittag der offenen Tür<br />
   &emsp;Altarchiv Heldenbergen<br />
-  ---------- <br/>
-20.06.2020 Infostand und Aktionen zum <br />
-  &emsp;Projekt "museale Rekonstruktion <br />
-  &emsp;eines bandkeramischen Hauses"<br />
-  &emsp;Hexenturmgarten, Schlossberg,<br />
-  &emsp;Nidderau-Windecken<br />
-  ---------- <br/>
-02.08.2020 Archäologischer Tag bei<br />
-  &emsp;KunstMais 2020<br />
-  &emsp;Hof Buchwald, Nidderau-Windecken<br />
   ---------- <br/>
 
 <br/>
