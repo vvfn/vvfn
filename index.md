@@ -14,6 +14,7 @@ Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
 14.05.2022 Nachmittag der offenen Tür<br />
   &emsp;Altarchiv Heldenbergen<br />
+  <p><img src="images/Archivgebaeude.jpg" border="0" style="margin-top: 5px; margin-left: 5px; margin-right: 5px; float: right;" />
   ---------- <br/>
 
 <br/>
