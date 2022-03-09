@@ -6,7 +6,8 @@ layout: home
 title: Willkommen
 ---
 
-<p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
+<!-- <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" /> -->
+<p><img src="images/Plakat Nachmittag der offenen Tuer 140522-1_kl.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
   Ein Besuch der Archäologischen Schausammlung <br />
   ist für Einzelpersonen nach Absprache möglich.<br />
@@ -14,7 +15,7 @@ Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
 14.05.2022 Nachmittag der offenen Tür<br />
   &emsp;Altarchiv Heldenbergen<br />
-  <p><img src="images/Plakat Nachmittag der offenen Tuer 140522-1_kl.jpg" border="0" width="200" style="margin-top: 5px; margin-left: 60px; margin-right: 5px; float: center;" /></p><br/>
+  ---------- <br/>
 
 <br/>
                    </p></p>
