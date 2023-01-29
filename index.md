@@ -17,8 +17,11 @@ Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   &emsp;Hexenturmgarten und Wiese<br />
   &emsp;vor Schloss Windecken<br />
   ---------- <br/>
-
-<br/>
+&emsp;<br />
+&emsp;<br />
+Unser Buch "Reisen" ist weiterhin<br />
+verfügbar!<br/>
+Näheres hier: <a href="_posts/2022-01-28-PM-keltenjahr.html">Reisen</a><br />
                    </p></p>
 
 <!--Vom Nidderauer Rathaus aus fahren Sie Richtung Friedberg immer geradeaus, im Stadtteil Heldenbergen nach dem Wolle-Laden rechts in die Mittelstraße, nach etwa 100 Metern biegen Sie links in die Hofeinfahrt auf das Gelände „Mittelburg“. Vor dem Archivgebäude stehen drei Parkplätze zur Verfügung. Weitere Parkplätze befinden sich am „Hessischen Hof“, von dort führt eine Treppe hinunter auf das Mittelburg-Gelände.
