@@ -16,7 +16,7 @@ Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
 <br />
   &emsp;<br />
   
-  ---------- <br/>
+
 &emsp;<br />
 &emsp;<br />
 Unser Buch "Reisen" ist weiterhin<br />
