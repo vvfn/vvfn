@@ -13,9 +13,9 @@ title: Willkommen
   ist für Einzelpersonen nach Absprache möglich.<br />
 Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
-15.10.2022 Aktionstag "Zeitsprünge"<br />
-  &emsp;Hexenturmgarten und Wiese<br />
-  &emsp;vor Schloss Windecken<br />
+<br />
+  &emsp;<br />
+  
   ---------- <br/>
 &emsp;<br />
 &emsp;<br />
