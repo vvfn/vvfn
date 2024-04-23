@@ -17,7 +17,7 @@ Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
 Besuchen Sie uns auch auf unserer <a href="https://www.facebook.com/vorgeschichte.niddertal/">Facebook-Seite</a> <br />
 oder auf <a href="https://www.instagram.com/vorgeschichte_niddertal/">Instagram.</a><br />
 Anmeldung zum Newsletter unter:<br />
-[vvfn2015@gmail.com](mailto:vvfn2015@gmail.com)<br />
+ <a href="mailto:vvfn2015@gmail.com">vvfn2015@gmail.com</a><br />
   ---------- <br/>
 <br />
   &emsp;<br />
