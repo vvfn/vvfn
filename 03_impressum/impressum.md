@@ -5,7 +5,7 @@ permalink: /impressum/
 menu: foot
 ---
 
-<p>Verein für Vor- und Frühgeschichte im unteren Niddertal e.V.<br />Am Hüpper 50<br />61130 Nidderau<br />Mail: vvfn2015@gmail.com</p>
+<p>Verein für Vor- und Frühgeschichte im unteren Niddertal e.V.<br />Am Hüpper 50<br />61130 Nidderau<br />Mail: kontakt.vvfn@gmail.com</p>
 <p>Vorstand:</p>
 <p>Dr. Heike Lasch, Erste Vorsitzende<br />Dieter Dettmering, stellvertretender Vorsitzender<br />Alf Steinbrecher, Geschäftsführer<br />P.D. Dr. Britta Ramminger, stellvertretende Geschäftsführerin<br />Kurt Hergenröder, Kassenwart<br />Sophie-Marie Hergenröder, Schriftführerin</p><br />
 <h1>Disclaimer</h1>
@@ -21,4 +21,4 @@ menu: foot
 <div>Die Verwendung der Kontaktdaten des Impressums zur gewerblichen Werbung ist ausdrücklich nicht erwünscht, es sei denn der Anbieter hatte zuvor seine schriftliche Einwilligung erteilt oder es besteht bereits eine Geschäftsbeziehung. Der Anbieter und alle auf dieser Website genannten Personen widersprechen hiermit jeder kommerziellen Verwendung und Weitergabe ihrer Daten.</div><br />
 <h4>Quelle: Disclaimer von <a href="http://www.juraforum.de" target="_blank" rel="nofollow">Juraforum.de</a></h4>
 <p> </p>
-Nachrichten an: [vvfn2015@gmail.com](mailto:vvfn2015@gmail.com).
+Nachrichten an: [kontakt.vvfn@gmail.com](mailto:kontakt.vvfn@gmail.com).

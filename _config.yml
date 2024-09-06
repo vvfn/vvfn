@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 author: Verein für Vor- und Frühgeschichte im unteren Niddertal e.V.
 title: 
-email: vvfn2015@gmail.com
+email: kontakt.vvfn@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Der VVFN e.V. wurde am 30.09.1988 gegründet und ist im Main-Kinzig-Kreis in Hessen tätig. 
   Der Verein unterstützt die Vor- und Frühgeschichtsforschung im Bereich der Gemeinden Schöneck 

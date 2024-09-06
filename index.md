@@ -10,14 +10,14 @@ title: Willkommen
 <p><img src="images/Plakat Aktionstag 051024 zum Druck.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
   Ein Besuch der Archäologischen Schausammlung <br />
-  ist für Einzelpersonen nach Absprache möglich.<br />
+  ist nach Absprache möglich.<br />
 Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
 <br />
 Besuchen Sie uns auch auf unserer <a href="https://www.facebook.com/vorgeschichte.niddertal/">Facebook-Seite</a> <br />
 oder auf <a href="https://www.instagram.com/vorgeschichte_niddertal/">Instagram.</a><br />
 Anmeldung zum Newsletter unter:<br />
- <a href="mailto:vvfn2015@gmail.com">vvfn2015@gmail.com</a><br />
+ <a href="mailto:kontakt.vvfn@gmail.com">kontakt.vvfn@gmail.com</a><br />
   ---------- <br/>
 <br />
   &emsp;<br />
