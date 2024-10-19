@@ -7,7 +7,7 @@ title: Willkommen
 ---
 
 <!-- <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" /> -->
-<p><img src="images/Plakat Aktionstag 051024 zum Druck.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
+<p><img src="images/Flyer Replikenausstellung B5 VVFNeV_Stadt Nidderau_241019_111721.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
   Ein Besuch der Archäologischen Schausammlung <br />
   ist nach Absprache möglich.<br />
