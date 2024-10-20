@@ -14,7 +14,7 @@ title: Willkommen
 Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
 <br />
-23.11.2024 bis 4.4.2025
+23.11.2024 bis 4.4.2025 <br/>
 Replikenausstellung Keltenwelten
 <p><a href="{{ site.url | relative_url }}/images/Flyer Replikenausstellung B5 VVFNeV_Stadt Nidderau_241019_111721.pdf">Flyer zum Ausdrucken</a></p>
   ---------- <br/>
