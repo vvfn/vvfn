@@ -15,8 +15,8 @@ Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
 <br />
 23.11.2024 bis 4.4.2025 <br/>
-Replikenausstellung Keltenwelten
-<p><a href="{{ site.url | relative_url }}/images/Flyer Replikenausstellung B5 VVFNeV_Stadt Nidderau_241019_111721.pdf">Flyer zum Ausdrucken</a></p>
+Replikenausstellung Keltenwelten <br/>
+<p><a href="{{ site.url | relative_url }}/images/Flyer Replikenausstellung B5 VVFNeV_Stadt Nidderau_241019_111721.pdf">Flyer zum Ausdrucken</a></p> <br/>
   ---------- <br/>
 <br />
 Besuchen Sie uns auch auf unserer <a href="https://www.facebook.com/vorgeschichte.niddertal/">Facebook-Seite</a> <br />
