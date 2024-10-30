@@ -7,7 +7,7 @@ title: Willkommen
 ---
 
 <!-- <p><img src="images/Archivgebaeude.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" /> -->
-<p><img src="images/Flyer Replikenausstellung B5 VVFNeV_Stadt Nidderau_241019_111721_1.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
+<p><img src="images/Flyer Replikenausstellung VVFNeV_Stadt Nidderau 24_25.jpg" border="0" width="340" style="margin-top: 10px; margin-left: 5px; margin-right: 5px; float: left;" />
 <p style="float:right"><strong>Nächste Termine</strong><br/>
   Ein Besuch der Archäologischen Schausammlung <br />
   ist nach Absprache möglich.<br />
@@ -16,7 +16,7 @@ Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
 <br />
 23.11.2024 bis 4.4.2025 <br/>
 Replikenausstellung Keltenwelten <br/>
-<a href="{{ site.url | relative_url }}/images/Flyer Replikenausstellung B5 VVFNeV_Stadt Nidderau_241019_111721.pdf">Flyer zum Ausdrucken</a> <br/>
+<a href="{{ site.url | relative_url }}/images/Flyer Replikenausstellung VVFNeV_Stadt Nidderau 24_25.pdf">Flyer zum Ausdrucken</a> <br/>
   ---------- <br/>
 <br />
 Besuchen Sie uns auch auf unserer <a href="https://www.facebook.com/vorgeschichte.niddertal/">Facebook-Seite</a> <br />
