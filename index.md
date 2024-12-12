@@ -16,7 +16,7 @@ Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
 <br />
 10.01.2025 <br/>
 Taschenlampenführung <br/>
-<a href="{{ site.url | relative_url }}/_posts/C:\Users\Internet\Documents\GitHub\vvfn\_posts\2025-01-10-pm-taschenlampen.html">Taschenlampenführung</a> <br/>
+<a href="{{ site.url | relative_url }}/_posts/2025-01-10-pm-taschenlampen.html">Zur Taschenlampenführung</a> <br/>
   ---------- <br/>
 <br />
 23.11.2024 bis 4.4.2025 <br/>
