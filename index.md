@@ -14,9 +14,14 @@ title: Willkommen
 Bitte nutzen Sie dazu unsere Kontakt-Emailadresse.<br />
   ---------- <br/>
 <br />
+20.02.2025 <br/>
+Kelten in Nidderau? – Vortrag <br/>
+<a href="{{ site.url | relative_url }}/images/Pressemitteilung - VVFN e.V. - Nidderau - Kelten in Nidderau.pdf">Zum Vortrag</a> <br/>
+  ---------- <br/>
+<br />
 10.01.2025 <br/>
 Taschenlampenführung <br/>
-<a href="{{ site.url | relative_url }}/images/Pressemitteilung - VVFN e.V. - Nidderau Taschenlampenfuehrung.pdf">Taschenlampenführung</a> <br/>
+<a href="{{ site.url | relative_url }}/images/Pressemitteilung - VVFN e.V. - Nidderau Taschenlampenfuehrung.pdf">Zur Taschenlampenführung</a> <br/>
   ---------- <br/>
 <br />
 23.11.2024 bis 4.4.2025 <br/>
